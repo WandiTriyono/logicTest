@@ -1,0 +1,32 @@
+D:\3.On Going\Work Unity\TestVisual\bin\Debug\net5.0\TestVisual.exe
+D:\3.On Going\Work Unity\TestVisual\bin\Debug\net5.0\TestVisual.deps.json
+D:\3.On Going\Work Unity\TestVisual\bin\Debug\net5.0\TestVisual.runtimeconfig.json
+D:\3.On Going\Work Unity\TestVisual\bin\Debug\net5.0\TestVisual.runtimeconfig.dev.json
+D:\3.On Going\Work Unity\TestVisual\bin\Debug\net5.0\TestVisual.dll
+D:\3.On Going\Work Unity\TestVisual\bin\Debug\net5.0\ref\TestVisual.dll
+D:\3.On Going\Work Unity\TestVisual\bin\Debug\net5.0\TestVisual.pdb
+D:\3.On Going\Work Unity\TestVisual\obj\Debug\net5.0\TestVisual.csprojAssemblyReference.cache
+D:\3.On Going\Work Unity\TestVisual\obj\Debug\net5.0\TestVisual.GeneratedMSBuildEditorConfig.editorconfig
+D:\3.On Going\Work Unity\TestVisual\obj\Debug\net5.0\TestVisual.AssemblyInfoInputs.cache
+D:\3.On Going\Work Unity\TestVisual\obj\Debug\net5.0\TestVisual.AssemblyInfo.cs
+D:\3.On Going\Work Unity\TestVisual\obj\Debug\net5.0\TestVisual.csproj.CoreCompileInputs.cache
+D:\3.On Going\Work Unity\TestVisual\obj\Debug\net5.0\TestVisual.dll
+D:\3.On Going\Work Unity\TestVisual\obj\Debug\net5.0\ref\TestVisual.dll
+D:\3.On Going\Work Unity\TestVisual\obj\Debug\net5.0\TestVisual.pdb
+D:\3.On Going\Work Unity\TestVisual\obj\Debug\net5.0\TestVisual.genruntimeconfig.cache
+D:\3.On Going\Work Unity\New folder\1 Lexico\bin\Debug\net5.0\TestVisual.exe
+D:\3.On Going\Work Unity\New folder\1 Lexico\bin\Debug\net5.0\TestVisual.deps.json
+D:\3.On Going\Work Unity\New folder\1 Lexico\bin\Debug\net5.0\TestVisual.runtimeconfig.json
+D:\3.On Going\Work Unity\New folder\1 Lexico\bin\Debug\net5.0\TestVisual.runtimeconfig.dev.json
+D:\3.On Going\Work Unity\New folder\1 Lexico\bin\Debug\net5.0\TestVisual.dll
+D:\3.On Going\Work Unity\New folder\1 Lexico\bin\Debug\net5.0\ref\TestVisual.dll
+D:\3.On Going\Work Unity\New folder\1 Lexico\bin\Debug\net5.0\TestVisual.pdb
+D:\3.On Going\Work Unity\New folder\1 Lexico\obj\Debug\net5.0\TestVisual.csprojAssemblyReference.cache
+D:\3.On Going\Work Unity\New folder\1 Lexico\obj\Debug\net5.0\TestVisual.GeneratedMSBuildEditorConfig.editorconfig
+D:\3.On Going\Work Unity\New folder\1 Lexico\obj\Debug\net5.0\TestVisual.AssemblyInfoInputs.cache
+D:\3.On Going\Work Unity\New folder\1 Lexico\obj\Debug\net5.0\TestVisual.AssemblyInfo.cs
+D:\3.On Going\Work Unity\New folder\1 Lexico\obj\Debug\net5.0\TestVisual.csproj.CoreCompileInputs.cache
+D:\3.On Going\Work Unity\New folder\1 Lexico\obj\Debug\net5.0\TestVisual.dll
+D:\3.On Going\Work Unity\New folder\1 Lexico\obj\Debug\net5.0\ref\TestVisual.dll
+D:\3.On Going\Work Unity\New folder\1 Lexico\obj\Debug\net5.0\TestVisual.pdb
+D:\3.On Going\Work Unity\New folder\1 Lexico\obj\Debug\net5.0\TestVisual.genruntimeconfig.cache
